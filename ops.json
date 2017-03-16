@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "e88850b3-4f70-41bf-9aa2-bf50d70c5ad9",
+    "name": "oNesso",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c4fe5a37-f04f-4564-9380-039f1a4a2659",
+    "name": "yagimaru",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "38e273a2-b472-4572-bbd3-c685101e3f9a",
+    "name": "miappoid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
