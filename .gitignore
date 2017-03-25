@@ -1,4 +1,5 @@
 # ignore
 /logs/
-/plugins/
+/plugins/*.jar
+/plugins/LunaChat/logs/
 /spigot-*.jar
