@@ -112,7 +112,7 @@ Sounds:
   PlayerJoinEvent_FirstSound: none
   PlayerJoinEvent_JoinSound: none
   PlayerQuitEvent_QuitSound: none
-  PlayerChatEvent_ChatSound: CHICKEN_EGG_POP-1-1-0
+  PlayerChatEvent_ChatSound: none
   PlayerCommandEvent_CommandSound: none
 
 ## === サウンドタイプの設定 === ##
