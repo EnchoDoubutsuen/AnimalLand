@@ -59,6 +59,22 @@ stats:
 world-settings:
   default:
     verbose: true
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    nerf-spawner-mobs: false
+    arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
+    hanging-tick-frequency: 100
+    view-distance: 12
+    zombie-aggressive-towards-villager: true
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: -4544724629306263792
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
@@ -99,19 +115,3 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    hanging-tick-frequency: 100
-    merge-radius:
-      item: 2.5
-      exp: 3.0
-    item-despawn-rate: 6000
-    zombie-aggressive-towards-villager: true
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
-    seed-monument: 10387313
-    seed-slime: -4544724629306263792
-    nerf-spawner-mobs: false
-    view-distance: 12
