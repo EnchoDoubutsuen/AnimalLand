@@ -14,9 +14,6 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  filter-creative-items: true
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -35,17 +32,9 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-commands:
-  tab-complete: 0
-  silent-commandblock-console: false
-  log: true
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
+  filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -53,28 +42,39 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
+commands:
+  tab-complete: 0
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  log: true
+  silent-commandblock-console: false
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: true
+    zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
+    view-distance: 12
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    arrow-despawn-rate: 1200
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    item-despawn-rate: 6000
+    nerf-spawner-mobs: false
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
     seed-monument: 10387313
     seed-slime: -4544724629306263792
-    arrow-despawn-rate: 1200
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    item-despawn-rate: 6000
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    nerf-spawner-mobs: false
-    view-distance: 12
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
