@@ -2,7 +2,7 @@
   {
     "uuid": "e88850b3-4f70-41bf-9aa2-bf50d70c5ad9",
     "name": "oNesso",
-    "level": 2,
+    "level": 4,
     "bypassesPlayerLimit": false
   },
   {
@@ -15,6 +15,12 @@
     "uuid": "38e273a2-b472-4572-bbd3-c685101e3f9a",
     "name": "miappoid",
     "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d0456b81-5d69-45ad-9bd7-f618c2b7d301",
+    "name": "Love_ya_Teemo",
+    "level": 1,
     "bypassesPlayerLimit": false
   }
 ]
