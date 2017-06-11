@@ -2,7 +2,7 @@ worlds:
   animal_land:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: animal_land
     color: WHITE
     style: NORMAL
     pvp: 'false'
