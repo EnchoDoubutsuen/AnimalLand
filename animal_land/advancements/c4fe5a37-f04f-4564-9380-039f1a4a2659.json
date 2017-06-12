@@ -1,25 +1,13 @@
 {
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2017-06-09 16:40:54 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_the_recipe": "2017-06-09 21:36:32 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2017-06-09 15:23:15 +0900"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
-      "zombie": "2017-06-09 16:15:00 +0900"
+      "has_cooked_rabbit": "2017-06-12 14:04:02 +0900"
     },
     "done": true
   },
@@ -29,17 +17,11 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "bred_chicken": "2017-06-09 17:34:52 +0900",
-      "bred_ocelot": "2017-06-09 17:42:40 +0900",
-      "bred_sheep": "2017-06-09 17:34:02 +0900",
-      "bred_wolf": "2017-06-09 17:39:45 +0900",
-      "bred_rabbit": "2017-06-09 17:31:44 +0900",
-      "bred_cow": "2017-06-09 17:34:17 +0900",
-      "bred_pig": "2017-06-09 17:31:31 +0900"
+      "has_blaze_rod": "2017-06-12 14:23:52 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:end/root": {
     "criteria": {
@@ -47,9 +29,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
+  "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
     },
     "done": true
   },
@@ -83,18 +65,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2017-06-09 21:32:06 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2017-06-09 21:32:27 +0900"
@@ -107,9 +77,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2017-06-12 14:28:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2017-06-09 21:32:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
     },
     "done": true
   },
@@ -119,40 +101,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_water_bucket": "2017-06-09 15:23:15 +0900"
+      "has_pumpkin": "2017-06-12 14:58:58 +0900"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "forest": "2017-06-09 17:07:59 +0900",
-      "mushroom_island_shore": "2017-06-09 15:36:10 +0900",
-      "deep_ocean": "2017-06-09 16:56:22 +0900",
-      "beaches": "2017-06-09 15:39:31 +0900",
-      "extreme_hills_with_trees": "2017-06-09 17:06:24 +0900",
-      "plains": "2017-06-09 15:23:15 +0900",
-      "jungle_hills": "2017-06-09 15:37:25 +0900",
-      "jungle_edge": "2017-06-09 15:36:12 +0900",
-      "mushroom_island": "2017-06-09 15:35:36 +0900",
-      "ocean": "2017-06-09 16:56:19 +0900",
-      "extreme_hills": "2017-06-09 15:38:42 +0900",
-      "river": "2017-06-09 15:36:11 +0900",
-      "jungle": "2017-06-09 15:36:18 +0900",
-      "stone_beach": "2017-06-09 17:07:41 +0900"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2017-06-09 21:32:06 +0900"
+      "has_leather": "2017-06-12 14:10:36 +0900"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
-      "slept_in_bed": "2017-06-09 15:28:05 +0900"
+      "has_cooked_rabbit": "2017-06-12 14:04:02 +0900"
     },
     "done": true
   },
@@ -168,9 +131,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_stick": "2017-06-09 15:23:15 +0900"
+      "fortress": "2017-06-12 14:22:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2017-06-12 14:06:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2017-06-12 14:00:08 +0900"
     },
     "done": true
   },
@@ -180,9 +161,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
-      "consumed_item": "2017-06-09 15:35:08 +0900"
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
     },
     "done": true
   },
@@ -201,12 +182,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 15:41:09 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 21:20:32 +0900"
@@ -219,21 +194,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 15:41:09 +0900"
     },
     "done": true
   },
@@ -243,51 +206,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2017-06-09 21:20:52 +0900"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2017-06-09 15:25:46 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2017-06-09 16:15:00 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 15:41:09 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_lapis": "2017-06-09 21:32:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2017-06-09 15:41:09 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-09 15:41:09 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2017-06-09 16:14:57 +0900"
     },
     "done": true
   },
@@ -315,9 +248,485 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2017-06-12 14:14:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2017-06-09 21:36:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2017-06-12 13:49:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2017-06-09 17:26:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_the_recipe": "2017-06-09 17:27:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2017-06-09 21:36:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2017-06-12 14:36:32 +0900",
+      "chicken": "2017-06-12 14:34:48 +0900",
+      "cooked_mutton": "2017-06-09 21:27:07 +0900",
+      "cooked_beef": "2017-06-12 13:21:33 +0900",
+      "chorus_fruit": "2017-06-12 14:43:52 +0900",
+      "baked_potato": "2017-06-09 21:17:28 +0900",
+      "beef": "2017-06-12 14:48:39 +0900",
+      "porkchop": "2017-06-12 14:13:11 +0900",
+      "clownfish": "2017-06-12 14:13:08 +0900",
+      "beetroot_soup": "2017-06-12 14:34:54 +0900",
+      "apple": "2017-06-12 14:28:13 +0900",
+      "spider_eye": "2017-06-12 14:37:19 +0900",
+      "potato": "2017-06-12 14:54:12 +0900",
+      "cooked_cod": "2017-06-09 15:35:08 +0900",
+      "rabbit": "2017-06-12 14:45:48 +0900",
+      "poisonous_potato": "2017-06-12 14:12:29 +0900",
+      "melon": "2017-06-12 14:35:29 +0900",
+      "pumpkin_pie": "2017-06-12 15:01:42 +0900",
+      "raw_salmon": "2017-06-12 14:29:33 +0900",
+      "mutton": "2017-06-12 14:35:11 +0900",
+      "pufferfish": "2017-06-12 14:34:37 +0900",
+      "bread": "2017-06-12 14:29:47 +0900",
+      "rotten_flesh": "2017-06-09 17:27:52 +0900",
+      "cookie": "2017-06-12 14:18:06 +0900",
+      "raw_cod": "2017-06-12 14:13:05 +0900",
+      "beetroot": "2017-06-12 14:35:36 +0900",
+      "cooked_rabbit": "2017-06-12 14:56:00 +0900",
+      "cooked_chicken": "2017-06-12 14:37:25 +0900",
+      "mushroom_stew": "2017-06-12 13:58:50 +0900",
+      "rabbit_stew": "2017-06-12 14:18:35 +0900",
+      "carrot": "2017-06-09 17:30:13 +0900"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2017-06-09 17:26:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2017-06-12 14:06:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2017-06-09 15:29:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2017-06-12 14:28:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2017-06-09 15:25:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2017-06-12 14:23:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2017-06-12 14:10:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-06-09 16:40:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2017-06-09 21:36:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2017-06-12 14:10:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2017-06-09 16:15:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2017-06-09 17:34:52 +0900",
+      "bred_ocelot": "2017-06-09 17:42:40 +0900",
+      "bred_sheep": "2017-06-09 17:34:02 +0900",
+      "bred_wolf": "2017-06-09 17:39:45 +0900",
+      "bred_rabbit": "2017-06-09 17:31:44 +0900",
+      "bred_cow": "2017-06-09 17:34:17 +0900",
+      "bred_horse": "2017-06-12 13:45:07 +0900",
+      "bred_pig": "2017-06-09 17:31:31 +0900"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2017-06-09 21:32:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2017-06-12 14:23:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2017-06-12 14:14:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2017-06-09 17:07:59 +0900",
+      "mushroom_island_shore": "2017-06-09 15:36:10 +0900",
+      "deep_ocean": "2017-06-09 16:56:22 +0900",
+      "beaches": "2017-06-09 15:39:31 +0900",
+      "extreme_hills_with_trees": "2017-06-09 17:06:24 +0900",
+      "plains": "2017-06-09 15:23:15 +0900",
+      "jungle_hills": "2017-06-09 15:37:25 +0900",
+      "jungle_edge": "2017-06-09 15:36:12 +0900",
+      "mushroom_island": "2017-06-09 15:35:36 +0900",
+      "ocean": "2017-06-09 16:56:19 +0900",
+      "extreme_hills": "2017-06-09 15:38:42 +0900",
+      "river": "2017-06-09 15:36:11 +0900",
+      "jungle": "2017-06-09 15:36:18 +0900",
+      "stone_beach": "2017-06-09 17:07:41 +0900"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2017-06-09 21:32:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2017-06-09 15:28:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2017-06-09 15:35:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 15:41:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2017-06-12 14:28:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 15:41:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2017-06-12 14:16:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2017-06-09 15:25:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-06-09 16:15:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 15:41:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2017-06-09 21:32:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2017-06-12 14:10:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2017-06-09 15:41:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2017-06-12 14:02:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2017-06-09 16:14:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2017-06-12 14:10:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-12 14:20:30 +0900"
     },
     "done": true
   },
@@ -333,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2017-06-12 14:58:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2017-06-09 21:32:06 +0900"
@@ -345,32 +760,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_at_least_9_emerald": "2017-06-09 21:36:32 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log2": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-06-09 17:26:48 +0900",
+      "wither_skeleton": "2017-06-12 14:26:02 +0900",
+      "magma_cube": "2017-06-12 14:30:17 +0900",
       "skeleton": "2017-06-09 16:54:30 +0900",
+      "blaze": "2017-06-12 14:23:52 +0900",
       "zombie": "2017-06-09 16:15:00 +0900",
       "creeper": "2017-06-09 16:40:46 +0900"
     },
     "done": false
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2017-06-09 17:26:43 +0900"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
@@ -390,9 +790,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
-      "has_the_recipe": "2017-06-09 17:27:07 +0900"
+      "has_nether_brick": "2017-06-12 14:28:06 +0900"
     },
     "done": true
   },
@@ -402,15 +802,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_book": "2017-06-09 21:36:56 +0900"
+      "enchanted_item": "2017-06-12 15:04:19 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
-      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+      "has_pumpkin": "2017-06-12 14:58:58 +0900"
     },
     "done": true
   },
@@ -420,31 +820,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_mutton": "2017-06-09 21:27:07 +0900",
-      "baked_potato": "2017-06-09 21:17:28 +0900",
-      "cooked_cod": "2017-06-09 15:35:08 +0900",
-      "rotten_flesh": "2017-06-09 17:27:52 +0900",
-      "carrot": "2017-06-09 17:30:13 +0900"
-    },
-    "done": false
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2017-06-09 17:49:21 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2017-06-09 17:26:50 +0900"
     },
     "done": true
   },
@@ -454,21 +832,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
+  "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
-      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
+      "has_melon": "2017-06-12 14:06:25 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "has_slime_ball": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2017-06-09 15:29:31 +0900"
+      "has_cocoa": "2017-06-12 14:15:47 +0900"
     },
     "done": true
   },
@@ -490,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2017-06-09 21:32:06 +0900"
@@ -502,15 +880,9 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "crafting_table": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime": "2017-06-09 15:23:15 +0900"
+      "iron": "2017-06-12 14:20:30 +0900"
     },
     "done": true
   },
@@ -520,21 +892,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_at_least_9_wheat": "2017-06-09 15:25:44 +0900"
+      "has_at_least_9_bonemeal": "2017-06-12 14:38:15 +0900"
     },
     "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2017-06-09 16:59:16 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2017-06-09 21:20:32 +0900"
     },
     "done": true
   },
