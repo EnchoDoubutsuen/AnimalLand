@@ -50,7 +50,7 @@ worlds:
   animal_land_nether:
     ==: MVWorld
     hidden: 'false'
-    alias: 'animal_land_nether'
+    alias: animal_land_nether
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -98,7 +98,7 @@ worlds:
   animal_land_the_end:
     ==: MVWorld
     hidden: 'false'
-    alias: 'animal_land_the_end'
+    alias: animal_land_the_end
     color: WHITE
     style: NORMAL
     pvp: 'true'
