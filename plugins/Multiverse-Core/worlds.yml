@@ -5,11 +5,11 @@ worlds:
     alias: animal_land
     color: WHITE
     style: NORMAL
-    pvp: 'false'
+    pvp: 'true'
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: EASY
+    difficulty: HARD
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -50,14 +50,14 @@ worlds:
   animal_land_nether:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: 'animal_land_nether'
     color: WHITE
     style: NORMAL
-    pvp: 'false'
+    pvp: 'true'
     scale: '8.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: EASY
+    difficulty: HARD
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -98,14 +98,14 @@ worlds:
   animal_land_the_end:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: 'animal_land_the_end'
     color: WHITE
     style: NORMAL
-    pvp: 'false'
+    pvp: 'true'
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: EASY
+    difficulty: HARD
     spawning:
       ==: MVSpawnSettings
       animals:
