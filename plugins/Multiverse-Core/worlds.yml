@@ -7,7 +7,7 @@ worlds:
     style: NORMAL
     pvp: 'true'
     scale: '1.0'
-    respawnWorld: ''
+    respawnWorld: animal_land
     allowWeather: 'true'
     difficulty: HARD
     spawning:
@@ -55,7 +55,7 @@ worlds:
     style: NORMAL
     pvp: 'true'
     scale: '8.0'
-    respawnWorld: ''
+    respawnWorld: animal_land
     allowWeather: 'true'
     difficulty: HARD
     spawning:
@@ -103,7 +103,7 @@ worlds:
     style: NORMAL
     pvp: 'true'
     scale: '1.0'
-    respawnWorld: ''
+    respawnWorld: animal_land
     allowWeather: 'true'
     difficulty: HARD
     spawning:
