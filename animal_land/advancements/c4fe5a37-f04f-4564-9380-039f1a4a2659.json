@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2017-06-17 15:40:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2017-06-09 15:25:44 +0900"
@@ -158,6 +164,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-06-14 22:42:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2017-06-17 17:22:45 +0900"
     },
     "done": true
   },
@@ -483,6 +495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2017-06-17 17:22:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2017-06-09 15:29:31 +0900"
@@ -534,6 +552,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2017-06-12 14:38:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2017-06-17 17:22:45 +0900"
     },
     "done": true
   },
@@ -621,6 +645,7 @@
       "bred_ocelot": "2017-06-09 17:42:40 +0900",
       "bred_sheep": "2017-06-09 17:34:02 +0900",
       "bred_wolf": "2017-06-09 17:39:45 +0900",
+      "bred_llama": "2017-06-17 16:24:31 +0900",
       "bred_rabbit": "2017-06-09 17:31:44 +0900",
       "bred_cow": "2017-06-09 17:34:17 +0900",
       "bred_horse": "2017-06-12 13:45:07 +0900",
@@ -703,6 +728,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2017-06-17 15:37:47 +0900"
     },
     "done": true
   },
@@ -1013,6 +1044,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2017-06-17 16:17:36 +0900"
     },
     "done": true
   },
@@ -1507,15 +1544,18 @@
       "ice_flats": "2017-06-14 14:07:23 +0900",
       "forest": "2017-06-09 17:07:59 +0900",
       "mushroom_island_shore": "2017-06-09 15:36:10 +0900",
+      "birch_forest": "2017-06-17 16:59:34 +0900",
       "deep_ocean": "2017-06-09 16:56:22 +0900",
       "beaches": "2017-06-09 15:39:31 +0900",
       "extreme_hills_with_trees": "2017-06-09 17:06:24 +0900",
       "desert_hills": "2017-06-14 15:57:05 +0900",
       "mesa": "2017-06-17 00:00:09 +0900",
+      "forest_hills": "2017-06-17 17:08:35 +0900",
       "plains": "2017-06-09 15:23:15 +0900",
       "jungle_hills": "2017-06-09 15:37:25 +0900",
       "jungle_edge": "2017-06-09 15:36:12 +0900",
       "mushroom_island": "2017-06-09 15:35:36 +0900",
+      "birch_forest_hills": "2017-06-17 17:11:34 +0900",
       "ocean": "2017-06-09 16:56:19 +0900",
       "extreme_hills": "2017-06-09 15:38:42 +0900",
       "roofed_forest": "2017-06-14 15:55:02 +0900",
@@ -1643,6 +1683,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2017-06-15 12:51:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2017-06-17 16:17:29 +0900"
     },
     "done": true
   },

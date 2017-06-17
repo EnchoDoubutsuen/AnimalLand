@@ -505,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2017-06-17 19:50:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 11:22:48 +0900"
@@ -969,6 +975,7 @@
       "shulker": "2017-06-09 19:13:27 +0900",
       "skeleton": "2017-06-08 22:48:12 +0900",
       "zombie": "2017-06-15 21:56:48 +0900",
+      "creeper": "2017-06-17 23:31:12 +0900",
       "enderman": "2017-06-14 14:15:51 +0900"
     },
     "done": false
