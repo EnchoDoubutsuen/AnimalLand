@@ -695,6 +695,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2017-06-21 17:19:13 +0900",
       "enderman": "2017-06-17 00:45:22 +0900"
     },
     "done": false
@@ -858,6 +859,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-15 19:32:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2017-06-21 23:37:52 +0900"
     },
     "done": true
   },
@@ -1217,7 +1224,8 @@
       "extreme_hills": "2017-06-17 00:43:21 +0900",
       "river": "2017-06-15 19:26:59 +0900",
       "jungle": "2017-06-15 19:25:30 +0900",
-      "desert": "2017-06-17 15:17:38 +0900"
+      "desert": "2017-06-17 15:17:38 +0900",
+      "stone_beach": "2017-06-21 17:30:15 +0900"
     },
     "done": false
   },

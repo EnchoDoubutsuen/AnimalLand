@@ -905,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2017-06-21 16:00:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
@@ -915,11 +921,13 @@
     "criteria": {
       "zombie_pigman": "2017-06-09 17:26:48 +0900",
       "wither_skeleton": "2017-06-12 14:26:02 +0900",
+      "zombie_villager": "2017-06-19 13:38:35 +0900",
       "magma_cube": "2017-06-12 14:30:17 +0900",
       "slime": "2017-06-14 15:04:07 +0900",
       "skeleton": "2017-06-09 16:54:30 +0900",
       "blaze": "2017-06-12 14:23:52 +0900",
       "zombie": "2017-06-09 16:15:00 +0900",
+      "witch": "2017-06-19 13:38:45 +0900",
       "spider": "2017-06-14 15:10:44 +0900",
       "ghast": "2017-06-14 13:33:09 +0900",
       "creeper": "2017-06-09 16:40:46 +0900",
@@ -1209,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2017-06-21 14:37:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2017-06-14 22:42:21 +0900"
@@ -1338,6 +1352,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2017-06-14 15:59:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2017-06-21 16:00:36 +0900"
     },
     "done": true
   },
