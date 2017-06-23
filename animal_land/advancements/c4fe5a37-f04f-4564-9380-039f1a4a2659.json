@@ -302,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2017-06-23 16:50:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2017-06-12 14:20:30 +0900"
@@ -649,9 +655,10 @@
       "bred_rabbit": "2017-06-09 17:31:44 +0900",
       "bred_cow": "2017-06-09 17:34:17 +0900",
       "bred_horse": "2017-06-12 13:45:07 +0900",
-      "bred_pig": "2017-06-09 17:31:31 +0900"
+      "bred_pig": "2017-06-09 17:31:31 +0900",
+      "bred_mooshroom": "2017-06-23 21:25:49 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -668,6 +675,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2017-06-14 15:46:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2017-06-23 16:35:25 +0900"
     },
     "done": true
   },
@@ -920,6 +933,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-06-09 17:26:48 +0900",
+      "shulker": "2017-06-23 16:35:10 +0900",
       "wither_skeleton": "2017-06-12 14:26:02 +0900",
       "zombie_villager": "2017-06-19 13:38:35 +0900",
       "magma_cube": "2017-06-12 14:30:17 +0900",
@@ -1295,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2017-06-23 15:04:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-14 16:10:37 +0900"
@@ -1469,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2017-06-23 16:29:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2017-06-14 13:29:31 +0900"
@@ -1502,6 +1528,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-06-12 14:10:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2017-06-23 16:23:09 +0900"
     },
     "done": true
   },
@@ -1565,6 +1597,7 @@
       "forest": "2017-06-09 17:07:59 +0900",
       "mushroom_island_shore": "2017-06-09 15:36:10 +0900",
       "birch_forest": "2017-06-17 16:59:34 +0900",
+      "swampland": "2017-06-23 23:01:15 +0900",
       "deep_ocean": "2017-06-09 16:56:22 +0900",
       "beaches": "2017-06-09 15:39:31 +0900",
       "extreme_hills_with_trees": "2017-06-09 17:06:24 +0900",
@@ -1601,6 +1634,12 @@
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_chorus_fruit_popped": "2017-06-15 15:00:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2017-06-23 16:50:08 +0900"
     },
     "done": true
   },
@@ -1748,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2017-06-23 16:50:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2017-06-15 15:00:54 +0900"
@@ -1763,6 +1808,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2017-06-23 16:37:17 +0900"
     },
     "done": true
   },
