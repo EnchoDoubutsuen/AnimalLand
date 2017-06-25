@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2017-06-24 16:27:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-06-15 19:29:32 +0900"
@@ -98,6 +104,12 @@
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2017-06-15 20:14:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2017-06-24 14:08:35 +0900"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2017-06-24 14:28:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2017-06-15 20:16:10 +0900"
@@ -304,7 +322,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_cod": "2017-06-15 19:26:34 +0900"
+      "cooked_cod": "2017-06-15 19:26:34 +0900",
+      "mushroom_stew": "2017-06-24 14:28:54 +0900"
     },
     "done": false
   },
@@ -440,6 +459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2017-06-24 14:08:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-06-15 19:29:32 +0900"
@@ -484,6 +509,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_wolf": "2017-06-24 18:41:46 +0900",
       "bred_llama": "2017-06-17 14:25:32 +0900",
       "bred_mooshroom": "2017-06-17 00:01:40 +0900"
     },
@@ -663,9 +689,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2017-06-24 14:58:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-15 20:13:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2017-06-24 14:08:35 +0900"
     },
     "done": true
   },
@@ -947,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2017-06-24 12:27:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-06-17 17:17:11 +0900"
@@ -1175,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2017-06-24 14:08:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2017-06-15 20:16:10 +0900"
@@ -1237,6 +1287,8 @@
       "jungle_hills": "2017-06-15 19:25:52 +0900",
       "jungle_edge": "2017-06-15 19:25:19 +0900",
       "plains": "2017-06-17 15:55:44 +0900",
+      "taiga": "2017-06-24 19:31:41 +0900",
+      "taiga_hills": "2017-06-24 19:32:00 +0900",
       "mushroom_island": "2017-06-15 19:22:34 +0900",
       "birch_forest_hills": "2017-06-17 17:11:15 +0900",
       "ocean": "2017-06-17 00:04:27 +0900",
@@ -1269,6 +1321,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-15 20:18:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2017-06-24 16:27:15 +0900"
     },
     "done": true
   },
@@ -1350,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2017-06-24 14:08:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-06-15 19:25:19 +0900"
@@ -1401,6 +1465,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2017-06-15 20:18:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2017-06-24 16:27:15 +0900"
     },
     "done": true
   },
