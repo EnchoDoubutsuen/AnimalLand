@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2017-06-28 21:22:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2017-06-15 20:15:12 +0900"
@@ -819,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2017-06-28 21:22:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2017-06-15 20:15:15 +0900"
@@ -879,6 +891,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2017-06-28 21:22:58 +0900",
+      "has_lapis": "2017-06-28 21:22:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-06-15 19:28:41 +0900"
@@ -912,6 +931,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-15 19:32:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_red_dye": "2017-06-28 21:21:48 +0900"
     },
     "done": true
   },
@@ -978,6 +1003,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2017-06-15 20:14:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2017-06-28 21:26:19 +0900"
     },
     "done": true
   },
@@ -1194,6 +1225,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2017-06-17 17:22:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2017-06-28 21:26:19 +0900"
     },
     "done": true
   },
@@ -1416,6 +1453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2017-06-28 21:21:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-06-15 19:25:19 +0900"
@@ -1467,6 +1510,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2017-06-15 20:18:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2017-06-28 21:22:58 +0900"
     },
     "done": true
   },
@@ -1575,6 +1624,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_netherbrick": "2017-06-15 20:16:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2017-06-28 21:21:48 +0900"
     },
     "done": true
   },
