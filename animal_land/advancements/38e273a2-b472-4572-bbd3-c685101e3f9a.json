@@ -751,8 +751,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2017-06-29 22:06:53 +0900",
       "skeleton": "2017-06-22 21:04:58 +0900",
       "zombie": "2017-06-21 17:19:13 +0900",
+      "cave_spider": "2017-06-29 22:11:53 +0900",
       "spider": "2017-06-27 20:45:44 +0900",
       "creeper": "2017-06-27 20:44:02 +0900",
       "enderman": "2017-06-17 00:45:22 +0900"
@@ -1138,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2017-06-29 22:07:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2017-06-15 20:14:51 +0900"
@@ -1285,6 +1293,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2017-06-17 17:17:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2017-06-29 22:07:03 +0900"
     },
     "done": true
   },
@@ -1666,6 +1680,12 @@
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_stonebrick": "2017-06-15 20:14:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2017-06-29 22:07:07 +0900"
     },
     "done": true
   },
