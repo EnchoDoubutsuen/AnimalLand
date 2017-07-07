@@ -356,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-07-07 21:24:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-09 15:41:09 +0900"
@@ -1381,6 +1387,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2017-06-12 14:22:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-07-07 21:24:50 +0900"
     },
     "done": true
   },
