@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2017-07-12 17:51:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-14 16:10:37 +0900"
@@ -140,6 +146,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2017-07-12 14:39:52 +0900"
     },
     "done": true
   },
@@ -488,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2017-07-12 16:09:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2017-06-14 22:42:21 +0900"
@@ -552,8 +570,10 @@
       "magma_cube": "2017-06-12 14:30:17 +0900",
       "slime": "2017-06-14 15:04:07 +0900",
       "polar_bear": "2017-07-02 11:59:37 +0900",
+      "vindicator": "2017-07-12 17:43:40 +0900",
       "skeleton": "2017-06-09 16:54:30 +0900",
       "blaze": "2017-06-12 14:23:52 +0900",
+      "evoker": "2017-07-12 17:44:52 +0900",
       "zombie": "2017-06-09 16:15:00 +0900",
       "cave_spider": "2017-07-01 13:59:19 +0900",
       "silverfish": "2017-07-08 12:48:45 +0900",
@@ -604,6 +624,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2017-07-12 17:38:26 +0900"
     },
     "done": true
   },
@@ -721,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2017-07-12 16:58:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2017-06-21 14:37:09 +0900"
@@ -784,6 +816,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2017-06-15 12:44:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2017-07-12 16:58:52 +0900"
     },
     "done": true
   },
@@ -979,6 +1017,8 @@
       "jungle_hills": "2017-06-09 15:37:25 +0900",
       "jungle_edge": "2017-06-09 15:36:12 +0900",
       "ice_mountains": "2017-07-02 11:58:58 +0900",
+      "taiga": "2017-07-12 16:43:24 +0900",
+      "taiga_hills": "2017-07-12 16:43:22 +0900",
       "mushroom_island": "2017-06-09 15:35:36 +0900",
       "birch_forest_hills": "2017-06-17 17:11:34 +0900",
       "ocean": "2017-06-09 16:56:19 +0900",
@@ -1019,6 +1059,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-06-15 00:23:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2017-07-12 16:58:52 +0900"
     },
     "done": true
   },
@@ -1079,6 +1125,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2017-06-12 14:10:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2017-07-12 17:39:12 +0900"
     },
     "done": true
   },
@@ -1187,6 +1239,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2017-06-24 21:55:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2017-07-12 17:18:48 +0900"
     },
     "done": true
   },
