@@ -431,6 +431,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2017-06-15 19:26:34 +0900",
+      "cooked_chicken": "2017-07-19 22:14:38 +0900",
       "mushroom_stew": "2017-06-24 14:28:54 +0900"
     },
     "done": false
