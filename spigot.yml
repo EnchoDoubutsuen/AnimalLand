@@ -35,13 +35,6 @@ settings:
   filter-creative-items: true
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 commands:
   tab-complete: 0
   log: true
@@ -53,6 +46,13 @@ commands:
   - testforblock
   - tellraw
   silent-commandblock-console: false
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
@@ -63,15 +63,39 @@ advancements:
 world-settings:
   default:
     verbose: true
-    arrow-despawn-rate: 1200
-    view-distance: 12
-    enable-zombie-pigmen-portal-spawns: true
-    merge-radius:
-      exp: 0.0
-      item: 0.0
     item-despawn-rate: 6000
-    wither-spawn-sound-radius: 0
+    merge-radius:
+      item: 0.0
+      exp: 0.0
+    enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
+    zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
+    view-distance: 12
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: -4544724629306263792
+    wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 1
+    hopper-amount: 1
+    mob-spawn-range: 4
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    save-structure-info: true
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    random-light-updates: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -83,23 +107,6 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
-    hopper-amount: 1
-    mob-spawn-range: 4
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    random-light-updates: false
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    save-structure-info: true
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -112,10 +119,3 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
-    seed-monument: 10387313
-    seed-slime: -4544724629306263792
