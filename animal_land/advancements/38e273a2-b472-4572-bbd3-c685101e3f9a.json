@@ -1018,6 +1018,7 @@
     "criteria": {
       "slime": "2017-06-29 22:06:53 +0900",
       "skeleton": "2017-06-22 21:04:58 +0900",
+      "blaze": "2017-08-06 17:08:20 +0900",
       "zombie": "2017-06-21 17:19:13 +0900",
       "cave_spider": "2017-06-29 22:11:53 +0900",
       "spider": "2017-06-27 20:45:44 +0900",
@@ -1249,6 +1250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2017-08-06 17:18:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-06-15 19:28:41 +0900"
@@ -1324,6 +1331,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-01 23:49:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-08-06 17:06:49 +0900"
     },
     "done": true
   },
@@ -1699,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2017-08-06 17:18:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2017-06-17 17:22:45 +0900"
@@ -1756,6 +1775,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2017-06-29 22:07:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2017-08-06 17:18:45 +0900"
     },
     "done": true
   },
