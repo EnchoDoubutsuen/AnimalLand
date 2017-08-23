@@ -404,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2017-08-23 23:03:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 10:32:12 +0900"
@@ -509,6 +515,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2017-06-09 13:10:52 +0900",
+      "bred_ocelot": "2017-08-24 00:02:19 +0900",
       "bred_sheep": "2017-06-09 21:00:03 +0900",
       "bred_wolf": "2017-06-10 13:33:50 +0900",
       "bred_rabbit": "2017-06-10 13:12:24 +0900",
@@ -1352,8 +1359,11 @@
     "criteria": {
       "forest": "2017-06-09 20:51:20 +0900",
       "mushroom_island_shore": "2017-06-21 13:38:54 +0900",
+      "birch_forest": "2017-08-23 23:33:52 +0900",
       "deep_ocean": "2017-06-08 21:22:36 +0900",
       "beaches": "2017-06-08 21:13:06 +0900",
+      "extreme_hills_with_trees": "2017-08-24 00:26:26 +0900",
+      "mesa": "2017-08-23 23:27:40 +0900",
       "plains": "2017-06-15 14:40:06 +0900",
       "jungle_edge": "2017-06-21 13:39:19 +0900",
       "jungle_hills": "2017-06-21 13:41:36 +0900",
@@ -1361,6 +1371,7 @@
       "taiga": "2017-06-08 21:13:00 +0900",
       "redwood_taiga_hills": "2017-06-08 21:12:45 +0900",
       "mushroom_island": "2017-06-21 13:37:54 +0900",
+      "birch_forest_hills": "2017-08-23 23:34:18 +0900",
       "ocean": "2017-06-08 21:17:47 +0900",
       "extreme_hills": "2017-06-21 13:42:02 +0900",
       "roofed_forest": "2017-06-15 14:37:14 +0900",
