@@ -1093,6 +1093,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2017-08-03 00:31:52 +0900",
+      "frozen_river": "2017-08-28 00:07:11 +0900",
+      "taiga_cold_hills": "2017-08-28 00:17:08 +0900",
       "forest": "2017-06-09 14:57:35 +0900",
       "mesa_rock": "2017-08-20 15:28:05 +0900",
       "mushroom_island_shore": "2017-06-24 00:47:01 +0900",
@@ -1108,12 +1110,16 @@
       "jungle_edge": "2017-06-24 00:46:46 +0900",
       "jungle_hills": "2017-06-24 00:56:16 +0900",
       "savanna": "2017-08-03 01:12:57 +0900",
+      "mesa_clear_rock": "2017-08-27 21:16:16 +0900",
+      "savanna_rock": "2017-08-27 21:17:26 +0900",
+      "ice_mountains": "2017-08-28 00:06:37 +0900",
       "taiga": "2017-06-10 10:40:14 +0900",
       "redwood_taiga": "2017-08-03 01:06:37 +0900",
       "taiga_hills": "2017-06-14 21:52:52 +0900",
       "redwood_taiga_hills": "2017-08-13 22:48:28 +0900",
       "mushroom_island": "2017-06-24 00:46:19 +0900",
       "birch_forest_hills": "2017-07-02 14:52:38 +0900",
+      "taiga_cold": "2017-08-28 00:06:41 +0900",
       "ocean": "2017-06-11 19:58:41 +0900",
       "extreme_hills": "2017-06-09 17:02:08 +0900",
       "roofed_forest": "2017-07-02 14:52:29 +0900",
@@ -1123,7 +1129,7 @@
       "desert": "2017-08-03 01:11:46 +0900",
       "stone_beach": "2017-08-03 01:11:54 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
@@ -1591,6 +1597,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2017-06-11 22:16:48 +0900",
+      "bread": "2017-08-28 00:02:55 +0900",
       "rotten_flesh": "2017-06-17 01:12:04 +0900",
       "cooked_chicken": "2017-06-08 22:14:33 +0900",
       "carrot": "2017-06-15 02:27:50 +0900"
