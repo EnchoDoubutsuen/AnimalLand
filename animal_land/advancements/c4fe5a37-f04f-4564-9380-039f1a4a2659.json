@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2017-09-16 20:26:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2017-06-15 12:44:38 +0900"
@@ -443,6 +449,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2017-06-14 14:25:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2017-09-16 20:26:34 +0900"
     },
     "done": true
   },
@@ -722,6 +734,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2017-09-16 20:38:40 +0900"
     },
     "done": true
   },
@@ -1309,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2017-09-16 20:38:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-06-09 21:32:27 +0900"
@@ -1318,6 +1342,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2017-06-24 21:46:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2017-09-16 20:26:34 +0900"
     },
     "done": true
   },
