@@ -1,0 +1,219 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 17/12/05 15:15
+Description: Watching Server
+
+java.lang.Error
+	at java.io.RandomAccessFile.read0(Native Method)
+	at java.io.RandomAccessFile.read(Unknown Source)
+	at java.io.RandomAccessFile.readInt(Unknown Source)
+	at ayh.a(SourceFile:194)
+	at ayi.d(SourceFile:111)
+	at ayc.a(SourceFile:64)
+	at ol.f(SourceFile:124)
+	at ol.b(SourceFile:81)
+	at or.<init>(SourceFile:40)
+	at os.c(SourceFile:196)
+	at os.a(SourceFile:227)
+	at pj.a(SourceFile:269)
+	at pj.c(SourceFile:338)
+	at pj.a(SourceFile:162)
+	at pa.b(SourceFile:119)
+	at pa.e(SourceFile:66)
+	at gw.a(SourceFile:231)
+	at ox.c(SourceFile:187)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:650)
+	at nx.D(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:464)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at java.io.RandomAccessFile.read0(Native Method)
+	at java.io.RandomAccessFile.read(Unknown Source)
+	at java.io.RandomAccessFile.readInt(Unknown Source)
+	at ayh.a(SourceFile:194)
+	at ayi.d(SourceFile:111)
+	at ayc.a(SourceFile:64)
+	at ol.f(SourceFile:124)
+	at ol.b(SourceFile:81)
+	at or.<init>(SourceFile:40)
+	at os.c(SourceFile:196)
+	at os.a(SourceFile:227)
+	at pj.a(SourceFile:269)
+	at pj.c(SourceFile:338)
+	at pj.a(SourceFile:162)
+	at pa.b(SourceFile:119)
+	at pa.e(SourceFile:66)
+	at gw.a(SourceFile:231)
+	at ox.c(SourceFile:187)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:650)
+	at nx.D(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+
+-- Thread Dump --
+Details:
+	Threads: "threadDeathWatcher-2-1" Id=27 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #2" Id=26 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@e1ff030
+	-  locked java.util.Collections$UnmodifiableSet@d80f83
+	-  locked sun.nio.ch.WindowsSelectorImpl@4e79b40
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	...
+
+
+"Netty Server IO #1" Id=25 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@41e505b8
+	-  locked java.util.Collections$UnmodifiableSet@308af3c4
+	-  locked sun.nio.ch.WindowsSelectorImpl@706e4641
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	...
+
+
+"File IO Thread" Id=24 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at bgv.c(SourceFile:51)
+	at bgv.run(SourceFile:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Java2D Disposer" Id=22 WAITING on java.lang.ref.ReferenceQueue$Lock@48ebee97
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@48ebee97
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at sun.java2d.Disposer.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Watchdog" Id=21 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at ny.run(SourceFile:43)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=20 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@21cafaf7
+	-  locked java.util.Collections$UnmodifiableSet@46b939d9
+	-  locked sun.nio.ch.WindowsSelectorImpl@44e72301
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	...
+
+
+"Server console handler" Id=19 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@53efe25c
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@2584a794
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=18 RUNNABLE
+
+
+"Server thread" Id=16 RUNNABLE (in native)
+	at java.io.RandomAccessFile.read0(Native Method)
+	at java.io.RandomAccessFile.read(Unknown Source)
+	at java.io.RandomAccessFile.readInt(Unknown Source)
+	at ayh.a(SourceFile:194)
+	-  locked ayh@2a7c350c
+	at ayi.d(SourceFile:111)
+	at ayc.a(SourceFile:64)
+	at ol.f(SourceFile:124)
+	at ol.b(SourceFile:81)
+	...
+
+
+"Server Infinisleeper" Id=15 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at nx$1.run(SourceFile:81)
+
+
+"Snooper Timer" Id=14 TIMED_WAITING on java.util.TaskQueue@7baf11c8
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@7baf11c8
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Attach Listener" Id=6 RUNNABLE
+
+
+"Signal Dispatcher" Id=5 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@7b97b12e
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@7b97b12e
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@30883f05
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@30883f05
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at ny.run(SourceFile:59)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_121, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2617750336 bytes (2496 MB) / 3167551488 bytes (3020 MB) up to 3167551488 bytes (3020 MB)
+	JVM Flags: 7 total; -Xms3G -Xmx3G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M -XX:MaxNewSize=512M
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 4; [oo['yagimaru'/261, l='animal_land', x=-7560.46, y=76.00, z=6864.59]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
