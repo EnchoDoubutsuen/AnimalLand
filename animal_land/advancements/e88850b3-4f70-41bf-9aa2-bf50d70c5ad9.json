@@ -260,6 +260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2018-01-07 17:56:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2017-06-08 22:48:12 +0900"
@@ -333,6 +339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2018-01-07 17:56:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2017-06-10 01:57:32 +0900"
@@ -390,6 +402,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-10 01:57:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2018-01-07 17:56:43 +0900"
     },
     "done": true
   },
@@ -573,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-01-07 17:56:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2017-06-14 16:45:24 +0900"
@@ -645,6 +669,7 @@
       "shulker": "2017-06-09 19:13:27 +0900",
       "wither_skeleton": "2017-07-02 15:09:18 +0900",
       "zombie_villager": "2017-06-23 15:14:22 +0900",
+      "magma_cube": "2018-01-13 01:28:47 +0900",
       "slime": "2017-06-24 03:01:07 +0900",
       "vindicator": "2017-09-02 22:03:38 +0900",
       "skeleton": "2017-06-08 22:48:12 +0900",
@@ -669,6 +694,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2017-07-02 14:43:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2018-01-07 17:56:37 +0900"
     },
     "done": true
   },
@@ -711,6 +742,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-08 23:20:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2018-01-07 17:56:33 +0900"
     },
     "done": true
   },
@@ -777,6 +814,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2017-06-08 23:00:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2018-01-07 17:56:44 +0900"
     },
     "done": true
   },
@@ -924,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2018-01-07 17:56:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2017-06-08 23:16:49 +0900"
@@ -972,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-01-07 17:56:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2017-06-08 22:59:53 +0900"
@@ -1017,6 +1072,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2017-07-02 13:32:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2018-01-07 17:56:37 +0900"
     },
     "done": true
   },
@@ -1205,9 +1266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2018-01-07 17:56:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2017-06-09 17:09:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2018-01-07 17:56:44 +0900"
     },
     "done": true
   },
@@ -1286,6 +1359,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-10 11:22:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2018-01-07 17:56:33 +0900"
     },
     "done": true
   },
@@ -1421,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2018-01-07 17:56:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2017-06-16 03:07:51 +0900"
@@ -1439,9 +1524,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2018-01-07 17:56:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2017-08-15 00:17:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2018-01-07 17:56:31 +0900"
     },
     "done": true
   },
@@ -1475,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2018-01-07 17:56:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2017-06-15 20:59:03 +0900"
@@ -1484,6 +1587,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2017-06-09 17:29:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2018-01-07 17:56:43 +0900"
     },
     "done": true
   },
@@ -1705,6 +1814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2018-01-07 17:56:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 19:24:26 +0900"
@@ -1780,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2018-01-07 17:56:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-06-10 01:57:32 +0900"
@@ -1825,6 +1946,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 19:24:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2018-01-07 17:56:32 +0900"
     },
     "done": true
   },
@@ -2035,6 +2162,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2017-06-15 07:30:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2018-01-07 17:56:44 +0900"
     },
     "done": true
   },
@@ -2434,9 +2567,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-01-07 17:56:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2017-08-20 22:48:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2018-01-07 17:56:32 +0900"
     },
     "done": true
   },
