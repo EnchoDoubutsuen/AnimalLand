@@ -604,6 +604,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2018-01-19 23:28:30 +0900",
       "shulker": "2017-09-10 00:17:36 +0900",
       "wither_skeleton": "2017-09-09 17:13:28 +0900",
       "magma_cube": "2017-09-09 17:14:29 +0900",
@@ -1589,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2018-01-20 23:24:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2017-06-24 14:28:54 +0900"
@@ -1708,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-01-19 23:29:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-01 23:49:14 +0900"
@@ -1774,6 +1787,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2017-06-15 20:13:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2018-01-20 23:24:30 +0900"
     },
     "done": true
   },
@@ -2014,6 +2033,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2017-06-15 20:14:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2018-01-19 23:33:42 +0900"
     },
     "done": true
   },
