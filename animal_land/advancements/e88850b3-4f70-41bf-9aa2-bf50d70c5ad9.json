@@ -853,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-01-28 02:11:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-08 23:00:26 +0900"
@@ -1695,6 +1701,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-06-08 22:59:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2018-01-28 02:11:50 +0900"
     },
     "done": true
   },
