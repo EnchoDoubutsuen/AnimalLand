@@ -173,18 +173,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-06-09 15:23:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-06-09 15:23:15 +0900",
       "diamond_helmet": "2017-06-09 15:23:15 +0900",
       "diamond_chestplate": "2017-06-09 15:23:15 +0900",
       "diamond_boots": "2017-06-09 15:23:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-06-09 15:23:15 +0900"
     },
     "done": true
   },
@@ -203,6 +203,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-15 14:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2018-07-29 15:35:45 +0900"
     },
     "done": true
   },
@@ -805,6 +811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-07-29 14:51:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2017-06-09 17:22:01 +0900"
@@ -1090,6 +1102,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2017-06-24 20:57:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-07-29 15:35:45 +0900"
     },
     "done": true
   },
@@ -1744,6 +1762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-07-29 14:51:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2018-07-22 12:43:56 +0900"
@@ -1753,6 +1777,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-06-12 14:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2018-07-29 14:51:02 +0900"
     },
     "done": true
   },
@@ -2318,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "2018-07-29 14:27:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2017-12-22 11:32:21 +0900"
@@ -2783,6 +2819,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-06-14 13:29:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-07-29 15:35:45 +0900"
     },
     "done": true
   },
