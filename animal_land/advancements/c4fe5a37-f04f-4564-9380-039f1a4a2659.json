@@ -745,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2018-07-31 10:24:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2017-06-24 21:46:37 +0900"
@@ -1404,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2018-07-30 13:55:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2017-06-14 15:59:23 +0900"
@@ -1931,6 +1943,12 @@
       "minecraft:horse": "2017-06-12 13:45:07 +0900",
       "minecraft:rabbit": "2017-06-09 17:31:44 +0900",
       "minecraft:sheep": "2017-06-09 17:34:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2018-07-31 09:25:04 +0900"
     },
     "done": true
   },
@@ -2489,6 +2507,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2017-08-14 23:19:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2018-07-30 13:06:42 +0900"
     },
     "done": true
   },
