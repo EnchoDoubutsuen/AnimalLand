@@ -1774,6 +1774,7 @@
       "cooked_rabbit": "2017-06-12 14:56:00 +0900",
       "cooked_chicken": "2017-06-12 14:37:25 +0900",
       "mushroom_stew": "2017-06-12 13:58:50 +0900",
+      "cod": "2018-08-04 23:05:19 +0900",
       "rabbit_stew": "2017-06-12 14:18:35 +0900",
       "cooked_salmon": "2017-06-14 13:27:06 +0900",
       "carrot": "2017-06-09 17:30:13 +0900"
@@ -2003,6 +2004,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2017-06-12 14:14:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2018-08-04 22:58:40 +0900"
     },
     "done": true
   },
@@ -2639,6 +2646,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2017-06-14 22:42:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2018-08-04 21:48:43 +0900"
     },
     "done": true
   },
